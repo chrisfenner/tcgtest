@@ -91,3 +91,27 @@ EXAMPLE:
 \listoftables
 
 ---
+
+# Great Section
+
+```mermaid {caption="Hypochondriac's Conversation"}
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>Charlotte: Hello Charlotte, how are you?
+    loop Healthcheck
+        Charlotte->>Charlotte: Fight against hypochondria
+    end
+    Note right of Charlotte: Rational thoughts <br/>prevail!
+    Charlotte-->>Alice: Great!
+    Charlotte->>Bob: How about you?
+    Bob-->>Charlotte: Jolly good!
+```
+
+> Don't worry, rational thoughts will prevail!
+
+```python
+# This program prints Hello, world!
+
+print('Hello, world!')
+```
