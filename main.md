@@ -115,3 +115,9 @@ sequenceDiagram
 
 print('Hello, world!')
 ```
+
+WYSIWYG
+=======
+
+<!-- created with local install of https://app.diagrams.net/ -->
+![image](diagram.svg)
